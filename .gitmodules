@@ -1,0 +1,6 @@
+[submodule "code/Programming-Pearls-source-code"]
+	path = code/Programming-Pearls-source-code
+	url = https://github.com/ericwang14/Programming-Pearls-source-code.git
+[submodule "Chapter-exercises/Programming-Pearls"]
+	path = Chapter-exercises/Programming-Pearls
+	url = https://github.com/Folgerjun/Programming-Pearls.git
